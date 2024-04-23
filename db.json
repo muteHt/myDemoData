@@ -1,58 +1,31 @@
 {
     "user":{
         "login":[
-            {
-                userId: 1,
-                avatar:
-                    'https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif',
-                username: 'admin',
-                password: '123456',
-                desc: '超级管理员',
-                roles: ['超级管理员'],
-                buttons: ['cuser.detail'],
-                routes: ['acl', 'manu', 'spu', 'sku', 'role', 'product', 'attr', 'trademark', 'user'],
-                token: "eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWKi5NUrJSSkzJzcxT0lFKrShQsjI0MzQzMTK1NDGvBQApMebnIAAAAA.UG2Qj7F7ASMLBugNG67-wKs0Un6ORrneMkSdio0rKhX0o-fd6BC24T1gCzfVVtsNERPzs4Sjwz8JOyPfLazUSA",
-            },
-            {
-                userId: 2,
-                avatar:
-                    'https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif',
-                username: 'system',
-                password: '123456',
-                desc: '系统管理员',
-                roles: ['系统管理员'],
-                buttons: ['cuser.detail', 'cuser.user'],
-                routes: ['spu', 'sku', 'trademark', 'product', 'attr'],
-                token: "eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWKi5NUrJSSkzJzcxT0lFKrShQsjI0MzQzMTK1NDGvBQApMebnIAAAAA.UG2Qj7F7ASMLBugNG67-wKs0Un6ORrneMkSdio0rKhX0o-fd6BC24T1gCzfVVtsNERPzs4Sjwz8JOyPfLazUSA",
-        
-            },
-        ],
-        "info":[
-            {
-                userId: 1,
-                avatar:
-                    'https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif',
-                username: 'admin',
-                password: '123456',
-                desc: '超级管理员',
-                roles: ['超级管理员'],
-                buttons: ['cuser.detail'],
-                routes: ['acl', 'manu', 'spu', 'sku', 'role', 'product', 'attr', 'trademark', 'user'],
-                token: "eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWKi5NUrJSSkzJzcxT0lFKrShQsjI0MzQzMTK1NDGvBQApMebnIAAAAA.UG2Qj7F7ASMLBugNG67-wKs0Un6ORrneMkSdio0rKhX0o-fd6BC24T1gCzfVVtsNERPzs4Sjwz8JOyPfLazUSA",
-            },
-            {
-                userId: 2,
-                avatar:
-                    'https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif',
-                username: 'system',
-                password: '123456',
-                desc: '系统管理员',
-                roles: ['系统管理员'],
-                buttons: ['cuser.detail', 'cuser.user'],
-                routes: ['spu', 'sku', 'trademark', 'product', 'attr'],
-                token: "eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWKi5NUrJSSkzJzcxT0lFKrShQsjI0MzQzMTK1NDGvBQApMebnIAAAAA.UG2Qj7F7ASMLBugNG67-wKs0Un6ORrneMkSdio0rKhX0o-fd6BC24T1gCzfVVtsNERPzs4Sjwz8JOyPfLazUSA",
-        
-            },
+           {
+    "userId": 1,
+    "avatar":
+        "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+    "username": "admin",
+    "password": "123456",
+    "desc": "超级管理员",
+    "roles": ["超级管理员"],
+    "buttons": ["cuser.detail"],
+    "routes": ["acl", "manu", "spu", "sku", "role", "product", "attr", "trademark", "user"],
+    "token": "eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWKi5NUrJSSkzJzcxT0lFKrShQsjI0MzQzMTK1NDGvBQApMebnIAAAAA.UG2Qj7F7ASMLBugNG67-wKs0Un6ORrneMkSdio0rKhX0o-fd6BC24T1gCzfVVtsNERPzs4Sjwz8JOyPfLazUSA",
+}],
+"info":[
+        {
+    "userId": 1,
+    "avatar":
+        "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif",
+    "username": "admin",
+    "password": "123456",
+    "desc": "超级管理员",
+    "roles": ["超级管理员"],
+    "buttons": ["cuser.detail"],
+    "routes": ["acl", "manu", "spu", "sku", "role", "product", "attr", "trademark", "user"],
+    "token": "eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWKi5NUrJSSkzJzcxT0lFKrShQsjI0MzQzMTK1NDGvBQApMebnIAAAAA.UG2Qj7F7ASMLBugNG67-wKs0Un6ORrneMkSdio0rKhX0o-fd6BC24T1gCzfVVtsNERPzs4Sjwz8JOyPfLazUSA",
+}
         ]  
     },
 }
