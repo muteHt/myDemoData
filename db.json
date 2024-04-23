@@ -1,5 +1,18 @@
-
 {
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post 1"
+        },
+        {
+            "id": 2,
+            "title": "Post 2"
+        },
+        {
+            "id": 3,
+            "title": "Post 3"
+        }
+    ],
     "user":[{
         "userId": 1,
         "avatar":
@@ -9,9 +22,7 @@
         "desc": "超级管理员",
         "roles": ["超级管理员"],
         "buttons": ["cuser.detail"],
-        "token": "eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWKi5NUrJSSkzJzcxT0lFKrShQsjI0MzQzMTK1NDGvBQApMebnIAAAAA.UG2Qj7F7ASMLBugNG67-wKs0Un6ORrneMkSdio0rKhX0o-fd6BC24T1gCzfVVtsNERPzs4Sjwz8JOyPfLazUSA",
-    ,
-        "routes": ["acl", "manu", "spu", "sku", "role", "product", "attr", "trademark", "user"],
-     
-    }]
+     "token": "eyJhbGciOiJIUzUxMiIsInppcCI6IkdaSVAifQ.H4sIAAAAAAAAAKtWKi5NUrJSSkzJzcxT0lFKrShQsjI0MzQzMTK1NDGvBQApMebnIAAAAA.UG2Qj7F7ASMLBugNG67-wKs0Un6ORrneMkSdio0rKhX0o-fd6BC24T1gCzfVVtsNERPzs4Sjwz8JOyPfLazUSA",
+        "routes": ["acl", "manu", "spu", "sku", "role", "product", "attr", "trademark", "user"]
+     }]
 }
